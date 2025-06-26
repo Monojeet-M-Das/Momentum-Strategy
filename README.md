@@ -43,7 +43,7 @@ pip install yfinance backtrader scipy numpy pandas matplotlib
     A local file (assumed to be .txt) containing ticker symbols, one per line.
     Make sure to update the file path in the script:
 
-    with open(r'C:\Users\Mohan\Desktop\companies_all') as file_in:
+    with open('companies_all') as file_in:
 
 ▶️ How to Run
 
