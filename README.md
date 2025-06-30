@@ -40,7 +40,7 @@ pip install yfinance backtrader scipy numpy pandas matplotlib
         Analyzer metrics for performance evaluation
 
     companies_all
-    A local file (assumed to be .txt) containing ticker symbols, one per line.
+    A local file containing ticker symbols, one per line.
     Make sure to update the file path in the script:
 
     with open('companies_all') as file_in:
